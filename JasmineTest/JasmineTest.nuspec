@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>JasmineTest</id>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
     <title>Jasmine Test Framework</title>
     <authors>http://groups.google.com/group/jasmine-js</authors>
-    <owners>George Mauer</owners>
+    <owners>gmauer@gmail.com</owners>
     <licenseUrl>https://github.com/pivotal/jasmine/blob/master/MIT.LICENSE</licenseUrl>
     <projectUrl>http://pivotal.github.com/jasmine/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
